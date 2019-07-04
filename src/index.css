@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+@font-face 
+{
+  font-family: "Star Jedi";
+  src: url("/fonts/STARJEDI.TTF");
+}
+@font-face 
+{
+  font-family: "Star Jhol";
+  src: url("/fonts/STARJHOL.TTF");
+}
+@font-face 
+{
+  font-family: "Star Jout";
+  src: url("/fonts/STARJOUT.TTF");
+}
+@font-face 
+{
+  font-family: "Star Jedise";
+  src: url("/fonts/STJEDISE.TTF");
+}
