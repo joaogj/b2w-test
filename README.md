@@ -1,6 +1,6 @@
-## Ame Digital
+## B2W Digital
 
-Landing page desenvolvida para teste de conhecimento no processo seletivo da equipe Ame Digital.
+Landing page desenvolvida para teste de conhecimento no processo seletivo da equipe B2W Digital.
 
 ## Tecnologias e metodologias utilizadas
   * React.JS
